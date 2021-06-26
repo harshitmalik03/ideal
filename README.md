@@ -20,7 +20,7 @@ CONTACT <br />
 
 
 ## Contributing
-Follow the community guidelines if you want to propose a change in the Ideal core. For more information about participating in the community and contributing to the ideal project, read the section below.
+Follow the community guidelines if you want to propose a change in the Ideal core. For more information about participating in the community and contributing to the Ideal project, read the section below.
 
 
 ## Credits
