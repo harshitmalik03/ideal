@@ -2,7 +2,7 @@
 # IDEAL
 
 ## Introduction
-Ideal is an open-source web application that allows you to   connect with people of your own domain. This helps users find people of same interests to come together and explore.
+Ideal is an open-source web application that allows you to connect with people of your own domain. This helps users find people of same interests to come together and explore.
 
 
 ## TABLE OF CONTENTS
