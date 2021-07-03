@@ -25,7 +25,6 @@ Follow the community guidelines if you want to propose a change in the Ideal cor
 
 ## Credits
 Harshit Malik  <br /> 
-Chetan Thakral  <br /> 
 
 
 ## Contact
