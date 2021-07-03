@@ -29,7 +29,6 @@ Harshit Malik  <br />
 
 ## Contact
 Harshit Malik - malikharshit.333@gmail.com  <br /> 
-Chetan Thakral - chetanthakral325@gmail.com  <br /> 
 
 
 ## License
